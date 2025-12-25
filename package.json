@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "chai": "^5.1.0"
+  },
+  "dependencies": {
+    "pnpm": "^10.26.1",
+    "tailwinds": "^0.0.0"
   }
 }
